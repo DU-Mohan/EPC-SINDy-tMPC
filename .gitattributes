@@ -1,0 +1,6 @@
+* text=auto
+*.slx binary
+*.slxp binary
+*.mlx binary
+*.p binary
+*.mat binary
